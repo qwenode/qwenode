@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on php and go
-- 🌱 I’m currently learning golang and react!!!
-- 
+
 <!--
 **qwenode/qwenode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
