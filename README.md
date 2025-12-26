@@ -1,2 +1,4 @@
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwenode&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)
